@@ -179,3 +179,16 @@ Chi tiết toàn bộ logic có thể xem trong file `.ino` trong thư mục `sr
 
    ```cpp
    #include <Servo.h>
+   
+## 🤝 Đóng góp
+Dự án được phát triển bởi 3 thành viên:
+
+| Họ và Tên                | Vai trò                  |
+|--------------------------|--------------------------|
+| Trần Anh Tú              | Cập nhật sau.|
+| Bùi Quang Trường      | Cập nhật sau.|
+| Lê Đức Anh    | Cập nhật sau.  |
+| Nguyễn Văn Dũng    | Cập nhật sau.  |
+
+© 2025 NHÓM 9, CNTT 17-01, TRƯỜNG ĐẠI HỌC ĐẠI NAM
+
