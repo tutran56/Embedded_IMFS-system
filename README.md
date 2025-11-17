@@ -15,7 +15,7 @@ Một mô hình **xe chữa cháy mini** có khả năng:
 
 
 <p align="center">
-  <img src="imfs_poster.png" alt="Poster IMFS: Một hệ thống chữa cháy mini thông minh" width="800">
+  <img src="Posterr" alt="Poster IMFS: Một hệ thống chữa cháy mini thông minh" width="800">
 </p>
 
 ---
