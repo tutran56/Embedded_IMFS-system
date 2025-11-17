@@ -1,4 +1,4 @@
-# 🚒 Smart Mini Firefighting Car (Arduino)
+# 🚒 IMFS: An Intelligent Mini Firefighting System(Arduino)
 _(IMFS – Một hệ thống chữa cháy mini thông minh)_
 
 Một mô hình **xe chữa cháy mini** có khả năng:
@@ -10,30 +10,12 @@ Một mô hình **xe chữa cháy mini** có khả năng:
 
 ---
 
-## 📚 Mục lục
-
-- [Poster dự án](#-poster-dự-án)
-- [Sơ đồ hoạt động](#-sơ-đồ-hoạt-động)
-- [Giới thiệu](#-giới-thiệu)
-- [Tính năng chính](#-tính-năng-chính)
-- [Phần cứng sử dụng](#-phần-cứng-sử-dụng)
-- [Sơ đồ chân (Pin map)](#-sơ-đồ-chân-pin-map)
-- [Nguyên lý hoạt động](#-nguyên-lý-hoạt-động)
-- [Cài đặt & Upload code](#-cài-đặt--upload-code)
-- [Cấu hình trong code](#-cấu-hình-trong-code)
-- [Cấu trúc project](#-cấu-trúc-project)
-- [Hướng phát triển thêm](#-hướng-phát-triển-thêm)
-- [Lưu ý an toàn](#-lưu-ý-an-toàn)
-- [License](#-license)
-
----
 
 ## 🖼 Poster dự án
 
-> Đặt file poster của bạn vào thư mục `docs/` trong repo, ví dụ: `docs/imfs_poster.png`.
 
 <p align="center">
-  <img src="docs/imfs_poster.png" alt="Poster IMFS: Một hệ thống chữa cháy mini thông minh" width="800">
+  <img src="imfs_poster.png" alt="Poster IMFS: Một hệ thống chữa cháy mini thông minh" width="800">
 </p>
 
 ---
@@ -43,7 +25,7 @@ Một mô hình **xe chữa cháy mini** có khả năng:
 > Đặt sơ đồ flowchart vào `docs/imfs_flowchart.png` (hoặc sửa lại đường dẫn bên dưới cho khớp).
 
 <p align="center">
-  <img src="docs/imfs_flowchart.png" alt="Sơ đồ hoạt động hệ thống chữa cháy mini thông minh" width="400">
+  <img src="sodo.png" alt="Sơ đồ hoạt động hệ thống chữa cháy mini thông minh" width="400">
 </p>
 
 ---
