@@ -9,6 +9,15 @@ Một mô hình **xe chữa cháy mini** có khả năng:
 - **Phun nước** dập lửa khi đủ gần, kèm còi & đèn cảnh báo  
 
 ---
+## 🔥 Giới thiệu
+
+Dự án mô phỏng một **xe chữa cháy mini thông minh** dùng Arduino, kết hợp:
+
+- **Cảm biến lửa** (trái – giữa – phải) để xác định hướng đám cháy  
+- **Cảm biến siêu âm** để đo khoảng cách và tránh vật cản  
+- **Cảm biến mực nước** để kiểm tra còn nước hay không  
+- **Servo** để xoay vòi phun đúng hướng  
+- **Máy bơm nước** để phun khi đến gần đám cháy  
 
 
 ## 🖼 Poster dự án
@@ -30,23 +39,6 @@ Một mô hình **xe chữa cháy mini** có khả năng:
 
 ---
 
-## 🔥 Giới thiệu
-
-Dự án mô phỏng một **xe chữa cháy mini thông minh** dùng Arduino, kết hợp:
-
-- **Cảm biến lửa** (trái – giữa – phải) để xác định hướng đám cháy  
-- **Cảm biến siêu âm** để đo khoảng cách và tránh vật cản  
-- **Cảm biến mực nước** để kiểm tra còn nước hay không  
-- **Servo** để xoay vòi phun đúng hướng  
-- **Máy bơm nước** để phun khi đến gần đám cháy  
-
-Phù hợp cho:
-
-- Bài tập lớn môn Hệ thống nhúng / IoT / Arduino  
-- Demo tại hội nghị, hội thảo, lớp học STEM  
-- Học về **điều khiển động cơ, cảm biến & điều khiển tự động**
-
----
 
 ## ✨ Tính năng chính
 
