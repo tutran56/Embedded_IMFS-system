@@ -41,9 +41,6 @@ Dự án mô phỏng một **xe chữa cháy mini thông minh** dùng Arduino, k
 ---
 
 ## 🧾 Sơ đồ hoạt động
-
-> Đặt sơ đồ flowchart vào `docs/imfs_flowchart.png` (hoặc sửa lại đường dẫn bên dưới cho khớp).
-
 <p align="center">
   <img src="sodo.png" alt="Sơ đồ hoạt động hệ thống chữa cháy mini thông minh" width="400">
 </p>
