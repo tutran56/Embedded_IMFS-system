@@ -181,7 +181,7 @@ Chi tiết toàn bộ logic có thể xem trong file `.ino` trong thư mục `sr
    #include <Servo.h>
    
 ## 🤝 Đóng góp
-Dự án được phát triển bởi 3 thành viên:
+Dự án được phát triển bởi các thành viên:
 
 | Họ và Tên                | Vai trò                  |
 |--------------------------|--------------------------|
