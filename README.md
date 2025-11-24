@@ -35,7 +35,7 @@ Dự án mô phỏng một **xe chữa cháy mini thông minh** dùng Arduino, k
 
 
 <p align="center">
-  <img src="Posterr.png" alt="Poster IMFS: Một hệ thống chữa cháy mini thông minh" width="800">
+  <img src="Poster.png" alt="Poster IMFS: Một hệ thống chữa cháy mini thông minh" width="800">
 </p>
 
 ---
